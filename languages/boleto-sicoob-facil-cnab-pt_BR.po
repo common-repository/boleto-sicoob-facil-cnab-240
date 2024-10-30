@@ -1,0 +1,494 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-12-03 19:13-0300\n"
+"PO-Revision-Date: 2019-12-03 19:14-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: BoletoSicoobFacilCnab_OptionsManager.php:266
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Você não tem permissão suficiente para acessa esta página."
+
+#: BoletoSicoobFacilCnab_OptionsManager.php:436
+msgid "true"
+msgstr "verdade"
+
+#: BoletoSicoobFacilCnab_OptionsManager.php:438
+msgid "false"
+msgstr "falso"
+
+#: BoletoSicoobFacilCnab_OptionsManager.php:441
+msgid "Administrator"
+msgstr "Administrador"
+
+#: BoletoSicoobFacilCnab_OptionsManager.php:443
+msgid "Editor"
+msgstr "Editor"
+
+#: BoletoSicoobFacilCnab_OptionsManager.php:445
+msgid "Author"
+msgstr "Autor"
+
+#: BoletoSicoobFacilCnab_OptionsManager.php:447
+msgid "Contributor"
+msgstr "Colaborador"
+
+#: BoletoSicoobFacilCnab_OptionsManager.php:449
+msgid "Subscriber"
+msgstr "Assinante"
+
+#: BoletoSicoobFacilCnab_OptionsManager.php:451
+msgid "Anyone"
+msgstr "Alguém"
+
+#: BoletoSicoobFacilCnab_Plugin.php:15
+msgid "Cliente Number"
+msgstr "Numero do Cliente"
+
+#: BoletoSicoobFacilCnab_Plugin.php:16
+msgid "Cooperative"
+msgstr "Cooperativa"
+
+#: BoletoSicoobFacilCnab_Plugin.php:17
+msgid "Account number"
+msgstr "Número da conta"
+
+#: BoletoSicoobFacilCnab_Plugin.php:18
+msgid "Web Access Key (request from your manager)"
+msgstr "Chave de Acesso Web (solcite ao seu gerente)"
+
+#: BoletoSicoobFacilCnab_Plugin.php:19
+msgid "Fine Rate Percentage. Ex 2.00"
+msgstr "Porcentagem de taxa da multa. Ex 2.00"
+
+#: BoletoSicoobFacilCnab_Plugin.php:20
+msgid "Interest Rate Percentage. Ex 1.0"
+msgstr "Taxa de Juros (ao mês). Ex 1.0"
+
+#: BoletoSicoobFacilCnab_Plugin.php:21
+msgid "Description for the instruction  1"
+msgstr "Descrição da Instrução 1"
+
+#: BoletoSicoobFacilCnab_Plugin.php:22
+msgid "Description for the instruction  2"
+msgstr "Descrição da Instrução 2"
+
+#: BoletoSicoobFacilCnab_Plugin.php:23
+msgid "Description for the instruction  3"
+msgstr "Descrição da Instrução 3"
+
+#: BoletoSicoobFacilCnab_Plugin.php:24
+msgid "Description for the instruction  4"
+msgstr "Descrição da Instrução 4"
+
+#: BoletoSicoobFacilCnab_Plugin.php:25
+msgid "Description for the instruction  5"
+msgstr "Descrição da Instrução 4"
+
+#: BoletoSicoobFacilCnab_Plugin.php:26
+msgid "Deadline for payment after due date (days)"
+msgstr "Prazo para pagamento após a data de vencimento (dias)"
+
+#: boleto-sicoob-facil-cnab.php:52
+msgid ""
+"Error: plugin \"Boleto Sicoob Facil Cnab 240\" requires a newer version of "
+"PHP to be running."
+msgstr ""
+"Error: plugin \"Boleto Sicoob Facil Cnab 240\" requires a newer version of "
+"PHP to be running."
+
+#: boleto-sicoob-facil-cnab.php:53
+msgid "Minimal version of PHP required: "
+msgstr "Minimal version of PHP required: "
+
+#: boleto-sicoob-facil-cnab.php:54
+msgid "Your server's PHP version: "
+msgstr "Your server's PHP version: "
+
+#: contents/boleto/pages/active-plugins.php:15
+msgid "Plugin Login Logout Shortcode Simple is not activated!"
+msgstr "Plugin Login Logout Shortcode Simple is not activated!"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:10
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:11
+msgid "Sorry, your session has expired. Please go back and try again."
+msgstr "Desculpe, sua sessão expirou. Por favor volte e tente novamente."
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:25
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:243
+msgid "If something goes wrong click here to go back!"
+msgstr "Se algo der errado, clique aqui para voltar!"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:44
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:268
+msgid "PAYER"
+msgstr "PAGADOR"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:49
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:273
+msgid "Name"
+msgstr "Nome"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:56
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:281
+msgid "CPF/CNPJ"
+msgstr "CPF/CNPJ"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:63
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:297
+msgid "Date of birth"
+msgstr "Data de nascimento"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:70
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:305
+msgid "Address"
+msgstr "Endereço"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:77
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:312
+msgid "Number"
+msgstr "Número"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:83
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:318
+msgid "Complement"
+msgstr "Complemento"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:89
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:324
+msgid "Neighborhood"
+msgstr "Bairro"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:95
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:330
+msgid "City"
+msgstr "Cidade"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:101
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:336
+msgid "Zip Code"
+msgstr "CEP"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:107
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:342
+msgid "State"
+msgstr "Estado"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:113
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:348
+msgid "County code"
+msgstr "Código do Município"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:122
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:355
+msgid "DDD phone"
+msgstr "DDD"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:129
+msgid "Telephone Extension"
+msgstr "Ramal"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:136
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:362
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:369
+msgid "Phone number"
+msgstr "Telefone"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:142
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:375
+msgid "Receive by email?"
+msgstr "Receber o boleto por email?"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:146
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:379
+msgid "No"
+msgstr "Não"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:148
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:381
+msgid "Yes"
+msgstr "Sim"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:153
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:386
+msgid "Email"
+msgstr "Email"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:163
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:396
+msgid "BOLETO INFORMATION"
+msgstr "INFORMÇÕES DO BOLETO"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:168
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:401
+msgid "Boleto number"
+msgstr "Nosso Número"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:175
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:408
+msgid "Document type code"
+msgstr "Código do tipo de documento"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:184
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:414
+msgid "Issue date"
+msgstr "Data de emissão"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:192
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:422
+msgid "Your number"
+msgstr "Seu número"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:198
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:428
+msgid "Amount payable"
+msgstr "Valor a pagar"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:204
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:434
+msgid "Due Date type code"
+msgstr "Código do tipo de vencimento"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:212
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:442
+msgid "(1: Normal / 2: Spotlight / 3: Counter presentation)"
+msgstr "(1: Normal / 2: A vista/ 3: Contra apresentação)"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:217
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:447
+msgid "Due Date"
+msgstr "Data de vencimento"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:223
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:454
+msgid "Deadline Due Date"
+msgstr "Data limite após vencimento"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:229
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:461
+msgid "Discount amount"
+msgstr "Valor do abatimento"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:236
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:468
+msgid "IOF Value"
+msgstr "Valor IOF"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:242
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:474
+msgid "Accept"
+msgstr "Aceite"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:250
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:482
+msgid "(0:No / 1:Yes)"
+msgstr "(0:Não / 1:Sim)"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:255
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:487
+msgid "Fine rate percentage"
+msgstr "Porcentagem da multa"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:262
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:494
+msgid "Interest Rate Percentage"
+msgstr "Taxa de Juros (ao mês)"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:269
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:501
+msgid "Fine Date"
+msgstr "Data de multa"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:276
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:509
+msgid "Interest Date"
+msgstr "Data dos juros"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:283
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:517
+msgid "Guarantor name"
+msgstr "Nome do Sacador"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:290
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:524
+msgid "CGC/CPF guarantor"
+msgstr "CGC/CPF do Sacador"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:301
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:534
+msgid "DISCOUNTS"
+msgstr "DESCONTOS"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:306
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:539
+msgid "First Discount Date"
+msgstr "Data do primeiro desconto"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:313
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:547
+msgid "First discount amount"
+msgstr "Valor do primeiro desconto"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:319
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:553
+msgid "Secound Discount Date"
+msgstr "Data do segundo desconto"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:326
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:561
+msgid "Secound discount amount"
+msgstr "Valor do segundo desconto"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:333
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:567
+msgid "Third Discount Date"
+msgstr "Data do terceiro desconto"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:340
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:575
+msgid "Third discount amount"
+msgstr "Valor do terceiro desconto"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:347
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:581
+msgid "INSTRUCTIONS"
+msgstr "INSTRUÇÕES"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:352
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:586
+msgid "Description Instruction 1"
+msgstr "Descrição da Instrução 1"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:359
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:593
+msgid "Description Instruction 2"
+msgstr "Descrição da Instrução 2"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:365
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:599
+msgid "Description Instruction 3"
+msgstr "Descrição da Instrução 3"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:372
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:606
+msgid "Description Instruction 4"
+msgstr "Descrição da Instrução 4"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:378
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:612
+msgid "Description Instruction 5"
+msgstr "Descrição da Instrução 5"
+
+#: contents/boleto/pages/boleto-sicoob-form-confirmar.php:388
+msgid "Continue"
+msgstr "Continuar"
+
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:622
+msgid "Record"
+msgstr "Gravar"
+
+#: contents/boleto/pages/boleto-sicoob-form-gerar.php:627
+msgid ""
+"Clicking RECORD the ticket will be generated and can be consulted on "
+"Sicoobnet"
+msgstr ""
+"Ao clicar em GRAVAR, o ticket será gerado e poderá ser consultado no "
+"Sicoobnet."
+
+#: contents/boleto/pages/functions.php:138
+msgid "Please enter the Name! 10 to 50 alphabetic characters."
+msgstr "Por favor, digite o nome! 10 a 50 caracteres alfabéticos."
+
+#: contents/boleto/pages/functions.php:140
+msgid "Back and correct Name"
+msgstr "Voltar e corrigir o nome"
+
+#: contents/boleto/pages/functions.php:152
+#: contents/boleto/pages/functions.php:159
+msgid "Back and correct Email"
+msgstr "Voltar e corrigir o email"
+
+#: contents/boleto/pages/functions.php:176
+msgid "Back and correct Phone Number - Example 999990000"
+msgstr "Voltar e corrigir o número do telefone - Exemplo 999990000"
+
+#: contents/boleto/pages/functions.php:189
+msgid "Back and correct DDD - Example 11"
+msgstr "Voltar e corrigir o DDD - Exemplo 11"
+
+#: contents/boleto/pages/functions.php:198
+msgid "Back and correct Adress. Minimum 10 and Maximum 140 char."
+msgstr "Voltar e corrigir o endereço. Mínimo 10 e máximo 140 carácteres."
+
+#: contents/boleto/pages/functions.php:212
+msgid "Back and correct Adress Number. Minimum 1 and Maximum 20 char."
+msgstr "Voltar e corrigir o número do endereço. Mín. 1 e Máximo 20 caracteres."
+
+#: contents/boleto/pages/functions.php:222
+msgid "Back and correct Adress Complement. Maximum 20 char."
+msgstr "Voltar e corrigir o complemento de endereço. Máximo de 20 caracteres."
+
+#: contents/boleto/pages/functions.php:242
+msgid "Back and correct Neighborhood! 5 to 60 alphanumeric characters.."
+msgstr "Voltar e corrigir bairro! 5 a 60 caracteres alfanuméricos."
+
+#: contents/boleto/pages/functions.php:296
+#: contents/boleto/pages/functions.php:301
+msgid "Back and correct the CPF"
+msgstr "Voltar e corrigir o bairro! 5 a 60 caracteres alfanuméricos."
+
+#: contents/boleto/pages/functions.php:311
+#: contents/boleto/pages/functions.php:316
+msgid "Back and correct the CNPJ"
+msgstr "Voltar e corrigir o CNPJ"
+
+#: contents/boleto/pages/functions.php:325
+msgid "Back and correct the value. Minimum value 11,00"
+msgstr "Voltar e corrigir o valor. Mínimo R$ 11,00"
+
+#: contents/boleto/pages/functions.php:337
+msgid ""
+"Back and correct due date (dd-mm-yyyy). The due date should be from "
+"tomorrow. The due date is shorter than tomorrow!"
+msgstr ""
+"Voltar e corrigir a data de vencimento (dd-mm-aaaa). A data de vencimento "
+"deve ser a partir de amanhã. A data de vencimento está menor que amanhã!"
+
+#: contents/boleto/pages/functions.php:348
+msgid "The sum was wrong! Please go back and try again."
+msgstr "A soma estava errada! Por favor volte e tente novamente."
+
+#: contents/boleto/pages/importador-cnab.php:383
+msgid "Submit"
+msgstr "ENVIAR"
+
+#: contents/boleto/pages/importador-cnab.php:385
+msgid ""
+"If you want to generate the ticket by entering the data directly into the "
+"form, then download the sample file, import it, and then change the data."
+msgstr ""
+"Se você deseja gerar o BOLETO inserindo os dados diretamente no formulário, "
+"faça o download do arquivo de amostra, importe-o e altere os dados."
+
+#: contents/boleto/pages/importador-cnab.php:392
+msgid "Example file"
+msgstr "Arquivo de amostra"
+
+#: contents/boleto/reset/all-pages.php:9 contents/boleto/reset/all-pages.php:16
+#: contents/boleto/reset/all-pages.php:23
+msgid "Page reset successfully."
+msgstr "Página redefinida com sucesso."
+
+#~ msgid "Web Access Key"
+#~ msgstr "Chave de Acesso Web (solcite ao seu gerente)"

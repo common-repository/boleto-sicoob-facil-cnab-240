@@ -1,0 +1,398 @@
+* {
+    box-sizing: border-box;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+
+.container {
+    border-radius: 1px;
+    padding: 5px;
+}
+
+.bordalaranja {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+	border-color: #FF6600;
+} /* laranja*/
+
+.bordaverde {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+	border-color: #008000;
+} /* verde*/
+
+
+.bordavermelha {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+	border-color: #f44336;
+} /* laranja*/
+
+
+.containercinza {background-color: #f2f2f2;} /* cinza claro*/
+.containervermelho {background-color: #f44336;} /* red*/
+.containerazul {background-color: #008CBA; color: white;} /* Blue */ 
+.containerpreto {background-color: #555555;} /* Black */
+.containernavy {background-color: #000080;} /* navy */
+.containerverde {background-color: #008000;} /* verde */
+.containeroliva {background-color: #808000;} /* oliva */
+.containeramarelo {background-color: #FFFF00;} /* amarelo */
+.containerlaranja {background-color: #FF6600;} /* laranja */
+
+
+.rowcinza {background-color: #f2f2f2;} /* cinza claro*/
+.rowvermelho {background-color: #f44336;} /* red*/
+.rowazul {background-color: #008CBA; color: white;} /* Blue */ 
+.rowpreto {background-color: #555555;} /* Black */
+.rownavy {background-color: #000080;} /* navy */
+.rowverde {background-color: #008000;} /* verde */
+.rowoliva {background-color: #808000;} /* oliva */
+.rowamarelo {background-color: #FFFF00;} /* amarelo */
+.rowlaranja {background-color: #FF6600;} /* laranja */
+
+
+
+
+.col-5 {
+    float: left;
+    width: 5%;
+    margin-top: 4px;
+	padding-left: 1px;
+}
+
+
+.col-10 {
+    float: left;
+    width: 10%;
+    margin-top: 4px;
+	padding-left: 2px;
+}
+
+
+.col-15 {
+    float: left;
+    width: 15%;
+    margin-top: 6px;
+}
+
+
+
+.col-20 {
+    float: left;
+    width: 20%;
+    margin-top: 6px;
+}
+
+
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.col-30 {
+    float: left;
+    width: 30%;
+    margin-top: 6px;
+}
+
+
+.col-35 {
+    float: left;
+    width: 35%;
+    margin-top: 6px;
+}
+
+
+.col-40 {
+    float: left;
+    width: 40%;
+    margin-top: 6px;
+}
+
+.col-45 {
+    float: left;
+    width: 45%;
+    margin-top: 6px;
+}
+
+.col-50 {
+    float: left;
+    width: 50%;
+    margin-top: 6px;
+}
+
+
+.col-55 {
+    float: left;
+    width: 55%;
+    margin-top: 6px;
+}
+
+.col-60 {
+    float: left;
+    width: 60%;
+    margin-top: 6px;
+}
+
+.col-70 {
+    float: left;
+    width: 70%;
+    margin-top: 6px;
+}
+
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+.col-80 {
+    float: left;
+    width: 80%;
+    margin-top: 6px;
+}
+
+
+.col-90 {
+    float: left;
+    width: 90%;
+    margin-top: 6px;
+}
+
+
+.col-95 {
+    float: left;
+    width: 95%;
+    margin-top: 6px;
+}
+
+
+.col-100 {
+    float: left;
+    width: 100%;
+    margin-top: 6px;
+}
+
+
+/* Botons */
+
+.button-menu {
+    border: none;
+	border-radius: 4px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+	text-decoration: none;
+}
+
+.tamanho-p {
+    border: none;
+	border-radius: 2px;
+    padding: 5px 3px;
+    font-size: 12px;
+	line-height:38px;
+    margin: 4px 2px;
+	width: 50px;
+	height: 50px;
+}
+
+.tamanho-pp {
+    border: none;
+	border-radius: 0px;
+    padding: 1px 1px;
+    font-size: 10px;
+	line-height:20px;
+    margin: 4px 2px;
+	width: 30px;
+	height: 30px;
+}
+
+
+.tamanho-m {
+    border: none;
+	border-radius: 2px;
+    padding: 5px 3px;
+    font-size: 12px;
+	color: #FFFFFF;
+	line-height:38px;
+    margin: 4px 2px;
+	width: 100px;
+	height: 50px;
+	white-space: normal;	
+}
+
+.tamanho-g {
+    border: none;
+	border-radius: 2px;
+    padding: 5px 3px;
+	color: #FFFFFF;
+	line-height:38px;
+    margin: 4px 2px;
+	width: 250px;
+	height: 50px;
+	white-space: normal;	
+}
+
+.tamanho-eg {
+    border: none;
+	border-radius: 2px;
+    padding: 5px 3px;
+    font-size: 12px;
+	color: #FFFFFF;
+	line-height:38px;
+    margin: 4px 2px;
+	width: 500px;
+	height: 50px;
+	white-space: normal;
+}
+
+
+.tamanho-full {
+    border: none;
+	border-radius: 2px;
+    padding: 5px 3px;
+	color: #FFFFFF;
+	line-height:20px;
+    margin: 4px 2px;
+	width: 100%;
+	height: 55px;
+	white-space: normal;	
+}
+
+
+.tamanho-full-l1 {
+    border: none;
+	border-radius: 2px;
+    padding: 5px 3px;
+	color: #FFFFFF;
+	line-height:10px;
+    margin: 4px 2px;
+	width: 100%;
+	height: 30px;
+	white-space: normal;	
+}
+
+.fonte-p{
+font-size: 8px;
+}
+
+.fonte-m{
+font-size: 12px;
+}
+
+
+.fonte-g{
+font-size: 16px;
+}
+
+
+.fonte-eg{
+font-size: 20px;
+}
+
+.fonte-xg{
+font-size: 30px;
+}
+
+.alinha-centro {
+    text-align: center;
+}
+
+.alinha-direita {
+    text-align: right;
+}
+
+.alinha-esquerda {
+    text-align: left;
+}
+
+
+.alinha-texto-centro {
+    text-align: center;
+}
+
+.alinha-texto-direita {
+    text-align: right;
+}
+
+.alinha-texto-esquerda {
+    text-align: left;
+}
+
+.button-menu a:link {
+    text-decoration: none;
+}
+
+.button-menu a:hover {
+    text-decoration: none;
+}
+
+
+.button-menu a:link, a:ative {
+    background-color: #008CBA;
+}
+
+
+.buttonvermelho {background-color: #f44336;} /* red*/
+.buttonazul {background-color: #008CBA; color: #FFFFFF} /* Blue */ 
+.buttonpreto {background-color: #555555; color: #FFFFFF} /* Black */
+.buttonnavy {background-color: #000080;} /* navy */
+.buttonverde {background-color: #008000;} /* verde */
+.buttonoliva {background-color: #808000;} /* oliva */
+.buttonamarelo {background-color: #FFFF00;} /* amarelo */
+.buttonlaranja {background-color: #FF6600;} /* laranja */
+.buttoncinza {background-color: #cccccc;} /* Cinza */
+.buttonbranco {background-color: #ffffff; color: #474747} /* branco */
+.buttonturqueza {background-color: #21B4D0; color: #474747} /* azul2 */
+
+
+
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+    .col-15, .col-20, .col-25, .col-30, .col-35, .col-40, .col-45, .col-50, .col-55, .col-60, .col-70, .col-75, .col-80, .col-85, .col-90, .col-95, .col-100, input[type=submit], .tamanho-p, .tamanho-m, .tamanho-g, .tamanho-eg {
+        width: 100%;
+        margin-top: 0;
+    }
+	
+    .col-5, .col-10 {
+        width: 20%;
+        margin-top: 0;
+    }
+	
+}
